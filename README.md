@@ -2,7 +2,7 @@
 Color splat game 
 
 A hyper casual color maze game in which the player controls the ball and paints the maze. <br />
-Level difficulty increases gradually. <br />
+ Difficulty increases as the player progresses through each level. <br />
 Made in unity with C#
 
 ![color splat](https://user-images.githubusercontent.com/44425375/189488299-fd6182bd-2c50-4764-9188-2583ffc2ffc9.png)
